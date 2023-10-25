@@ -1,0 +1,34 @@
+.bi-search {
+  font-family: "Feather";
+  width: 1px important;
+  height: 1px important;
+  color: #595c5f;
+}
+.text-danger {
+  background-color: #ffeeda;
+  border-radius: 50%;
+}
+.bi-brightness-high-fill {
+  font-family: "Feather";
+  color: #595c5f;
+}
+.bg-primary {
+  color: #754ffe important;
+}
+.btn-primary {
+  background-color: #754ffe important;
+}
+.text-primary {
+  color : #754ffe important;
+}
+.btn-outline-primary {
+  border-color: #754ffe important;
+  color: #754ffe important;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.btn-success {
+  background-color: #38a169;
+}
